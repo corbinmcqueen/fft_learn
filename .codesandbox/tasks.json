@@ -6,7 +6,7 @@
   "tasks": {
     "start": {
       "name": "start",
-      "command": "serve",
+      "command": "npx serve /project/src/index.html",
       "runAtStart": true
     }
   }
